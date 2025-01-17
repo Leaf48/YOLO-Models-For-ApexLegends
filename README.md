@@ -2,7 +2,6 @@
 |:---------:|:---------:|:---------------:|:---------------:|:---------------:|
 | Supported |    ✅    |  ❌             | ❌             | ❌             |
 | Version   |    v7     |   n/a          |   n/a          |   n/a          |
-| TensorRT  |  ✅      |       n/a        |       n/a        |       n/a        |
 
-# Are you interested in other projects?
+### Are you interested in other projects?
 - [Valorant](https://github.com/Leaf48/YOLO-Models-For-Valorant)
